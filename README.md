@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rawsheedlearns
+- 👋 Hi, I’m @
 - 👀 I’m interested in learning web development
 - 🌱 I’m currently taking Front End Web Development Course on coursera
 - 💞️ I’m looking to collaborate on any web development project that can help me in my dev journey
