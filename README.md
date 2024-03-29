@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently taking Front End Web Development Course on coursera
-- 💞️ I’m looking to collaborate on any web development project that can help me in my dev journey
+- 👋 Hi, I’m Rasheed
+- 👀 I’m interested in machine learning
+- 💞️ I’m looking to collaborate on anymachine learning project that can help me in my journey
 - 📫 How to reach me ...rawshield91@gmail.com
 
 <!---
