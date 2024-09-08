@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rasheed
 - 👀 I’m interested in machine learning
-- 💞️ I’m looking to collaborate on anymachine learning project that can help me in my journey
+- 💞️ I’m looking to collaborate on any machine learning project that can help me in my journey
 - 📫 How to reach me ...rawshield91@gmail.com
 
 <!---
